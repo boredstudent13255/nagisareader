@@ -1,5 +1,5 @@
-Nagisa Reader
-A decentralized manga reader designed to function not dissimilarly to the Fediverse. 
+<h1>Nagisa Reader</h1>
+<p>A decentralized manga reader designed to function not dissimilarly to the Fediverse.</p>
 
 The core idea behind this is to provide a fully decentralized alternative to MangaDex that offers a user-friendly UI.
 However, the nature of the idea enables Nagisa Reader to be used by really anyone that has comics to share, so long as they don't mind the UI being built for right-to-left reading. The downside being that moderation is impossible.
@@ -9,7 +9,7 @@ Note however that this requires explicit support from the aggregate- you can't j
 
 
 
-The plan
+<h3>The plan</h3>
 I haven't started writing Nagisa Reader yet. But here's the idea as it is now.
 
 1. Making a series list
